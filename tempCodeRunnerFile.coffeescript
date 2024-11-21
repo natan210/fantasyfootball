@@ -1,0 +1,2 @@
+
+            print(f"Player: {player_name}, Points: {player_points}")
