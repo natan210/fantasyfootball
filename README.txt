@@ -1,5 +1,1 @@
-Goals for the project:
-scrape weekly projections and acutal points for each player on each team. 
-(put all this data into a csv file)
-scrape season totals 
-scrape matchups
+In this project, I did two things. I visualized the data into bar graphs using tkinter, and I made a program that found the optimal roster for my fantasy team. 
